@@ -14,7 +14,8 @@ import python from "../Images/Skill/python.png";
 
 
 import "./Home.css";
-import {
+
+import { 
   SiCplusplus,
   SiReact,
   SiJavascript,
